@@ -1273,8 +1273,8 @@ audio {
 .message p {
 	font-family: 'Noto Sans';
 	font-size: 30px;
-	color: #FFFFFF;
-	text-shadow: 2px 2px 2px #000011;
+	color: #6a5acd;
+	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: italic;
 	text-align: center;
