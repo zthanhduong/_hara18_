@@ -25,18 +25,18 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.jpeg",
+        "Một bức ảnh đáng yêu": "./imgs/xiaokeai.jpeg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        turn_on: "Bám vô đây nè!!!",
+        play: "Chào bạn.",
+        bannar_coming: "Nhớ ngày này chứ?",
+        balloons_flying: "Ngày bạn đã đến với thế giới này...",
+        cake_fadein: "Một ngày đáng để nhớ đến phải không?",
+        light_candle: "Vậy lên mình đã làm một món quà nho nhỏ tặng bạn.",
+        wish_message: "Gửi đến bạn một chút hạnh phúc cho một ngày đáng nhớ...",
+        story: "Bắt đầu nào...",
     }
 };
