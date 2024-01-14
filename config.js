@@ -1,3 +1,4 @@
+// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
@@ -34,7 +35,7 @@ var config = {
         bannar_coming: "Nhớ ngày này chứ?",
         balloons_flying: "Ngày bạn đã đến với thế giới này...",
         cake_fadein: "Một ngày đáng để nhớ đến phải không?",
-        light_candle: "Vậy lên mình đã làm một món quà nho nhỏ tặng bạn.",
+        light_candle: "Vậy nên tặng một món quà nho nhỏ.",
         wish_message: "Gửi đến bạn một chút hạnh phúc cho một ngày đáng nhớ...",
         story: "Bắt đầu nào...",
     }
