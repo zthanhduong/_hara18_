@@ -30,7 +30,7 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Bám vô đây nè!!!",
+        turn_on: "Bấm vô đây nè!!!",
         play: "Chào bạn.",
         bannar_coming: "Nhớ ngày này chứ?",
         balloons_flying: "Ngày bạn đã đến với thế giới này...",
