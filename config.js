@@ -13,7 +13,7 @@ var config = {
         "zthanhduong~~",
     ],
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "_hara18_": "./imgs/hara.png",
     },
     desc: {
         turn_on: "start",
