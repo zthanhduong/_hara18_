@@ -1,10 +1,7 @@
-// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
 var config = {
-    // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
-    // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "To: Hara",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "Mừng sinh nhật tuổi 24 của bạn.",  // 同上...
+        "To: Hara",
+        "Mừng sinh nhật tuổi 24 của bạn.",
         "Mong bạn có một ngày thật vui, và cả cho tuổi 24 nữa.",
         "Thật tiếc vì đã không thể gặp bạn hôm nay,",
         "nhưng mình vẫn vui vì đã được đồng hành trong quá trình trưởng thành của bạn.",
